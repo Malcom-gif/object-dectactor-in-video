@@ -1,4 +1,4 @@
-# object-detector-vgg16
+# object-detector-inceptionV3
 
 # CONTRIBUTORS
 R206949N - Malcom Chivheya
