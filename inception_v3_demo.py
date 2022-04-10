@@ -2,7 +2,7 @@ import numpy as np
 import string
 import pickle
 import os
-#import cv2
+import cv2
 import glob
 import tempfile
 import tensorflow
