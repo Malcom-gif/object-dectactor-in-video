@@ -10,6 +10,6 @@ https://share.streamlit.io/malcom-gif/object-dectactor-in-video/main/inception_v
 
 # Live Demostration on Video
 
-https://drive.google.com/file/d/10xiEoPJFF6AnX_Nkdp27y3bma1O9AvR9/view?usp=sharing
 
+https://drive.google.com/file/d/1-8-UfsaOVcGIjgtdbBkjLapE8rQq7gGM/view?usp=sharing
 
